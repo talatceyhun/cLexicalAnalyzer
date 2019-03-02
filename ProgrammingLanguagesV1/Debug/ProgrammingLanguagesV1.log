@@ -1,0 +1,5 @@
+﻿  Kaynak.c
+c:\users\talat\source\repos\programminglanguagesv2\programminglanguagesv1\programminglanguagesv1\kaynak.c(294): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+c:\users\talat\source\repos\programminglanguagesv2\programminglanguagesv1\programminglanguagesv1\kaynak.c(310): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+c:\users\talat\source\repos\programminglanguagesv2\programminglanguagesv1\programminglanguagesv1\kaynak.c(354): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  ProgrammingLanguagesV1.vcxproj -> C:\Users\talat\source\repos\ProgrammingLanguagesV2\ProgrammingLanguagesV1\Debug\ProgrammingLanguagesV1.exe
